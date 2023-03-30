@@ -1,0 +1,26 @@
+@font-face {
+  font-family: RosettaPlex;
+  src: url('../binance_font/BinancePlex-Medium.woff2') format('woff');
+}
+
+@font-face {
+  font-family: zcool-gdh;
+  src: url('../binance_font/GaoDuanHeiXiuDing151105-1.ttf')
+}
+
+@font-face {
+  font-family: kukuhei-gdh;
+  src: url('../binance_font/【MianFei】CangJiGaoDeGuoMiaoHei-CJgaodeguomh-2.ttf')
+}
+
+@font-face {
+  font-family: PINGFANG;
+  src: url('../binance_font/Roboto-Black-1.ttf')
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Medium;
+  src: url('../binance_font/NotoSansCJK-Regular-1.otf')
+}
+
+/* zcool-gdh */
